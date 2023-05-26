@@ -4,6 +4,7 @@ https://github.com/PaddlePaddle/community/blob/master/hackthon_4th/%E3%80%90Padd
 
 Reference:
 - https://arxiv.org/pdf/2006.03654.pdf
+- https://arxiv.org/pdf/2111.09543.pdf
 - https://github.com/microsoft/DeBERTa
 - https://github.com/huggingface/transformers/tree/master/src/transformers/models/deberta
 - https://github.com/huggingface/transformers/tree/master/src/transformers/models/deberta_v2
